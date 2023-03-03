@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "108247454801",
+    "project_id": "letschat-51c89",
+    "storage_bucket": "letschat-51c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108247454801:android:946a95be690751d2615470",
+        "android_client_info": {
+          "package_name": "com.anshdeep.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108247454801-ebti9qkbcr416msrtr5md3cp6rkg8vkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5m9kIdx9EJaDYMWKJUyR3tsukhnqvnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108247454801-ebti9qkbcr416msrtr5md3cp6rkg8vkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108247454801:android:3b76aa6fb7245e59615470",
+        "android_client_info": {
+          "package_name": "com.chinmay.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108247454801-ebti9qkbcr416msrtr5md3cp6rkg8vkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5m9kIdx9EJaDYMWKJUyR3tsukhnqvnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108247454801-ebti9qkbcr416msrtr5md3cp6rkg8vkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108247454801:android:5d8bd15f331c206c615470",
+        "android_client_info": {
+          "package_name": "com.songirkar.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108247454801-ebti9qkbcr416msrtr5md3cp6rkg8vkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5m9kIdx9EJaDYMWKJUyR3tsukhnqvnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108247454801-ebti9qkbcr416msrtr5md3cp6rkg8vkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
